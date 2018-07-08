@@ -2,10 +2,14 @@
 Simple boilerplate code for Vue apps.
 This is for the latest version of Vuejs Applications.
 
-Build Setup
+## Build Setup
+
+``` bash
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run serve
+
+```
 
